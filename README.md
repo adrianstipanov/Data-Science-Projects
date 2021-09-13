@@ -6,6 +6,14 @@ Projects include a variety of topics that are representative of practical data s
 
 **Tools used:** Python, Pandas, Numpy, Sklearn, Matplotlib, SQL.
 ___
+### [Credit risk modeling – predicting loan defaults using ML](https://github.com/adrianstipanov/Data-Science-Projects/blob/master/Credit%20risk%20modeling%20%E2%80%93%20predicting%20loan%20defaults%20using%20ML.ipynb)
+
+
+In this project we will focus on credit modelling by training a model to predict borrower's credit risk.
+
+The dataset we'll be using is from Lending Club – a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. Lending Club releases data for all of the approved and declined loan applications periodically on their website.
+
+
 ### [Predicting House Sale Prices](https://github.com/adrianstipanov/Data-Scientist/blob/master/Predicting%20House%20Sale%20Prices.ipynb)
 
 In this project we will work with [housing data](datasets/AmesHousing.tsv) for the city of Ames, Iowa, United States from 2006 to 2010. As a learning algorithm we will be using simple linear regression.
